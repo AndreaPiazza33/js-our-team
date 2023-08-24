@@ -16,8 +16,8 @@ Organizzare i singoli membri in card/schede
 
 ## Procedimento:
 ### MILESTONE 0:  
+- creo un contenitore vuoto per gli oggetti;
 - definisco gli oggetti da inserire nel contenitore;
-- creo un contenitore per gli oggetti;
 - inserisco gli oggetti nel contenitore.
 ### MILESTONE 1:
 - recupero le informazioni di ciascun oggetto;
